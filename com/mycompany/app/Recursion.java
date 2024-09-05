@@ -1,3 +1,5 @@
+package com.mycompany.app;
+
 public class Recursion {
 
     public String toString() {
@@ -5,7 +7,7 @@ public class Recursion {
     }
 
     public static void main(String[] args) {
-        Recursion recursion = new Recursion();
-        System.out.println(recursion.toString());
+        Recursion Recursion = new Recursion();
+        System.out.println(Recursion.toString());
     }
 }
