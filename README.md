@@ -11,3 +11,4 @@
 * Thống kê số xe trong bãi và thu nhập của bãi xe
 ## UML Dự Án
 1. UML Communication Diagram
+2. https://github.com/dnthtrucs/OOP_Group18/issues/3#issue-2552533574
