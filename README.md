@@ -11,4 +11,8 @@ Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu h
 * Thống kê số xe trong bãi và thu nhập của bãi xe
 ## UML Dự Án
 1. UML Communication Diagram
+2. UML Use-case
+2.1 Use-case quản lý người dùng
+2.2 Use-case quản lý khách hàng
+2.3 Use-case thống kê
 
