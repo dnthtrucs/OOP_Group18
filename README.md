@@ -1,7 +1,7 @@
 ##OOP_Group18
 # hệ thống quản Lý bãi gửi xe
 ## Giới thiệu dự án
-### Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu hóa và cải thiện hiệu quả hoạt động của bãi gửi xe. Hệ thống cho phép quản lý thông tin chủ xe, xe và thống kê ngày ra vào bãi.
+Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu hóa và cải thiện hiệu quả hoạt động của bãi gửi xe. Hệ thống cho phép quản lý thông tin chủ xe, xe và thống kê ngày ra vào bãi.
 ## Thành viên nhóm
 1. Đoàn Tiến Dũng : Phát triển phần mềm toàn diện.
 2. Đoàn Thị Thanh Trúc: Phát triển phần mềm toàn diện.
@@ -11,4 +11,4 @@
 * Thống kê số xe trong bãi và thu nhập của bãi xe
 ## UML Dự Án
 1. UML Communication Diagram
-2. https://github.com/dnthtrucs/OOP_Group18/issues/3#issue-2552533574
+
