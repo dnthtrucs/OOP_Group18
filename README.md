@@ -1,5 +1,5 @@
 ## OOP_Group18
-# hệ thống quản Lý bãi gửi xe
+# Hệ thống quản Lý bãi gửi xe
 ## Giới thiệu dự án
 Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu hóa và cải thiện hiệu quả hoạt động của bãi gửi xe. Hệ thống cho phép quản lý thông tin chủ xe, xe và thống kê ngày ra vào bãi.
 ## Thành viên nhóm
