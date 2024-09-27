@@ -1,4 +1,4 @@
-##OOP_Group18
+## OOP_Group18
 # hệ thống quản Lý bãi gửi xe
 ## Giới thiệu dự án
 Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu hóa và cải thiện hiệu quả hoạt động của bãi gửi xe. Hệ thống cho phép quản lý thông tin chủ xe, xe và thống kê ngày ra vào bãi.
@@ -13,11 +13,11 @@ Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu h
 # 1. UML Communication Diagram
 ![UML](Quanlibaiguixe/UML/uml1.png)
 # 2. UML Use-case
-2.1 Use-case quản lý người dùng<br>
+* Use-case quản lý người dùng<br>
 ![UML](Quanlibaiguixe/UML/uml2.jpg)<br>
-2.2 Use-case quản lý khách hàng<br>
+* Use-case quản lý khách hàng<br>
 ![UML](Quanlibaiguixe/UML/uml3.jpg)<br>
-2.3 Use-case thống kê<br>
+* Use-case thống kê<br>
 ![UML](Quanlibaiguixe/UML/uml4.jpg)<br>
-### Giao diện dầu tiên của dự án
+## Giao diện dầu tiên của dự án
 ![UML](Quanlibaiguixe/UML/giadiendautien.png)<br>
