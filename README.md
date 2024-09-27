@@ -1,116 +1,18 @@
-# Code Platform for OOP
+##OOP_Group18
+# hệ thống quản Lý bãi gửi xe
+## Giới thiệu dự án
+Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu hóa và cải thiện hiệu quả hoạt động của bãi gửi xe. Hệ thống cho phép quản lý thông tin chủ xe, xe và thống kê ngày ra vào bãi.
+## Thành viên nhóm
+1. Đoàn Tiến Dũng : Phát triển phần mềm toàn diện.
+2. Đoàn Thị Thanh Trúc: Phát triển phần mềm toàn diện.
+## Chức năng chính
+* Thêm, sửa, xóa xe của khách hàng
+* Lấy thông tin chủ xe, biển số xe, ngày ra, vào bãi
+* Thống kê số xe trong bãi và thu nhập của bãi xe
+## UML Dự Án
+1. UML Communication Diagram
+2. UML Use-case
+2.1 Use-case quản lý người dùng
+2.2 Use-case quản lý khách hàng
+2.3 Use-case thống kê
 
-# Learn Java
-
-[Java Toutorial](https://www.w3schools.com/java/default.asp)
-
-https://www.w3schools.com/java/default.asp
-# Simple Exercies
-
-1. Main
-```
-//Import library, e.g for Date
-import java.util.Date;
-public class HelloWorld {
-    // Declare main without returning any agruments
-    public static void main(String[] args) {
-    // Declare variable, e.g SiSoLop type of int
-        int SiSoLop;
-        SiSoLop = 40;
-    // object d instance of Date
-        Date d = new Date();
-    // display e.g print out SiSoLop and Date 
-        System.out.println(SiSoLop);
-        System.out.println(d);
-    }
-}
-
-```
-2
-```
-class Number {
-    public int i;
-}
-class HelloWorld {
-    public static void main(String[] args) {
-        Number n1 = new Number();
-        Number n2 = new Number();
-        n1.i = 2;
-        n2.i = 5;
-        n1.i = n2.i;
-        n2.i = 10;	// what is n1.i?
-        System.out.println(n2.i);//10
-        System.out.println(n1.i);//5
-    }
-}
-
-
-```
-3
-```
-class Number {
-    public int i;
-}
-class HelloWorld {
-    public static void main(String[] args) {
-        Number n1 = new Number();
-        Number n2 = new Number();
-        n1.i = 2;
-        n2.i = 5;
-        n1 = n2;
-        n2.i = 10;	// what is n1.i?
-        System.out.println(n1.i);//10
-        n1.i = 20;	// what is n2.i?
-        System.out.println(n2.i);//20
-    }
-}
-
-```
-4. Alias
-```
-class Number {
-    public int i;
-}
-class HelloWorld {
-     static void f(Number m) {
-        m.i = 15;
-    }
-    public static void main(String[] args) {
-        Number n1 = new Number();
-        Number n2 = new Number();
-        Number n = new Number();
-        n1.i = 2;
-        n2.i = 5;
-        n1 = n2;
-        n2.i = 10;	// what is n1.i?
-        System.out.println(n1.i);//10
-        n1.i = 20;	// what is n2.i?
-        System.out.println(n2.i);//20
-        n.i = 14;
-        f(n);//// what is n.i now?
-        System.out.println(n.i);//15
-    }
-}
-
-```
-5. Constructor
-```
-public class Book {
-  String title;
-    String author;
-    int numPages;
-    Book() { }	; // default constructor
-    public Book(String t, String a, int p) {
-    title = t;
-    author = a;
-    numPages = p;
-  }
-
-  public static void main(String[] args) {
-    Book myObj = new Book("a","b",2);
-    System.out.println(myObj.title);
-  }
-}
-
-
-```
