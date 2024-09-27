@@ -10,10 +10,14 @@ Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu h
 * Lấy thông tin chủ xe, biển số xe, ngày ra, vào bãi
 * Thống kê số xe trong bãi và thu nhập của bãi xe
 ## UML Dự Án
-1. UML Communication Diagram
-2. UML Use-case
-2.1 Use-case quản lý người dùng
+# 1. UML Communication Diagram
 ![UML](Quanlibaiguixe/UML/uml1.png)
+# 2. UML Use-case
+2.1 Use-case quản lý người dùng
+![UML](Quanlibaiguixe/UML/uml2.jpg)
 2.2 Use-case quản lý khách hàng
+![UML](Quanlibaiguixe/UML/uml3.png)
 2.3 Use-case thống kê
-
+![UML](Quanlibaiguixe/UML/uml4.png)
+### Giao diện dầu tiên của dự án
+![UML](Quanlibaiguixe/UML/giadiendautien.png)
