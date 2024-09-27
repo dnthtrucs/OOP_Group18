@@ -13,6 +13,7 @@ Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu h
 1. UML Communication Diagram
 2. UML Use-case
 2.1 Use-case quản lý người dùng
+![UML](Quanlibaiguixe/UML/uml1.png)
 2.2 Use-case quản lý khách hàng
 2.3 Use-case thống kê
 
