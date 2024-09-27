@@ -14,10 +14,10 @@ Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu h
 ![UML](Quanlibaiguixe/UML/uml1.png)
 # 2. UML Use-case
 2.1 Use-case quản lý người dùng<br>
-![UML](Quanlibaiguixe/UML/uml2.jpg)
+![UML](Quanlibaiguixe/UML/uml2.jpg)<br>
 2.2 Use-case quản lý khách hàng<br>
-![UML](Quanlibaiguixe/UML/uml3.jpg)
+![UML](Quanlibaiguixe/UML/uml3.jpg)<br>
 2.3 Use-case thống kê<br>
-![UML](Quanlibaiguixe/UML/uml4.jpg)
+![UML](Quanlibaiguixe/UML/uml4.jpg)<br>
 ### Giao diện dầu tiên của dự án
-![UML](Quanlibaiguixe/UML/giadiendautien.png)
+![UML](Quanlibaiguixe/UML/giadiendautien.png)<br>
