@@ -8,13 +8,15 @@ import java.util.List;
 
 public class Dangnhap extends javax.swing.JFrame {
     private List<User> registeredUsers;
-    
+    private LoginHandler loginHandler;
     public Dangnhap() {
         initComponents();
         registeredUsers = new ArrayList<>();
         
-        User fixedUser = new User("truc", "1234");
+        User fixedUser = new User("dung", "07102004");
         registeredUsers.add(fixedUser);
+
+        loginHandler = new LoginHandler(registeredUsers);
     }
 
     private void initComponents() {
@@ -152,6 +154,7 @@ public class Dangnhap extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(this, "Vui lòng điền tên đăng nhập và mật khẩu.", "Invalidation", JOptionPane.ERROR_MESSAGE);
             return;
         }
+        loginHandler.handleLogin(username, password);
 
         boolean isValidUser = false;
         for (User user : registeredUsers) {
