@@ -20,7 +20,7 @@ Dự án này là một hệ thống quản lý bãi gửi xe, giúp tối ưu h
 ### Use-case thống kê<br>
 ![UML](Quanlibaiguixe/UML/uml4.jpg)<br>
 # Giao diện dầu tiên của dự án
-![UML](Quanlibaiguixe/UML/giaodiendautien.png)<br>
+![UML](Quanlibaiguixe/UML/giaodiendaudien.png)<br>
 # GitHub Pages Dự Án
 https://github.com/dnthtrucs/OOP_Group18
 
